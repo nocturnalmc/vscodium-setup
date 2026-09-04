@@ -12,7 +12,7 @@ Create product.json inside "~/.var/app/com.vscodium.codium/config/VSCodium" for 
 2. Auto Rename Tag by Jun Han
 3. Better Comments by Aaron Bond
 4. Codex – OpenAI’s coding agent by OpenAI
-5. GitLens --- Git supercharged by GitKraken
+5. GitLens — Git supercharged by GitKraken
 6. Material Icon Theme by Philipp Kief
 7. One Dark Pro by binaryify
 8. Prettier - Code formatter by Prettier
