@@ -1,5 +1,5 @@
 {
-  "editor.fontSize": 14.5,
+  "editor.fontSize": 14,
   "editor.fontFamily": "'JetBrainsMono Nerd Font', 'monospace', monospace",
   "editor.tabSize": 2,
   "editor.cursorStyle": "block",
@@ -9,32 +9,26 @@
   "editor.cursorBlinking": "expand",
   "editor.fontLigatures": true,
   "editor.minimap.maxColumn": 50,
-  "workbench.panel.defaultLocation": "right",
   "workbench.colorCustomizations": {
     "[One Dark Pro Flat]": {
       "editorCursor.background": "#1e2127"
     }
   },
   "workbench.colorTheme": "One Dark Pro Flat",
-  "workbench.iconTheme": "eq-material-theme-icons-palenight",
-  "window.titleBarStyle": "native",
-  "window.zoomLevel": -1.2,
+  "workbench.iconTheme": "material-icon-theme",
+  "window.zoomLevel": -0.95,
   "update.mode": "none",
-  "dateTime.showAMPM": true,
-  "dateTime.showDayOfMonth": true,
-  "dateTime.showDayOfWeek": true,
-  "dateTime.showMonth": true,
-  "dateTime.use24HourClock": false,
   "github.gitAuthentication": false,
+  "github.copilot.nextEditSuggestions.enabled": false,
   "tailwindCSS.colorDecorators": false,
   "[dotenv]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
+    "editor.defaultFormatter": "lumirelle.shell-format-rev"
   },
   "[ignore]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
+    "editor.defaultFormatter": "lumirelle.shell-format-rev"
   },
   "[shellscript]": {
-    "editor.defaultFormatter": "foxundermoon.shell-format"
+    "editor.defaultFormatter": "lumirelle.shell-format-rev"
   },
   "editor.wordWrap": "on",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -44,13 +38,6 @@
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "typescript": "typescriptreact"
-  },
-  "github.copilot.enable": {
-    "*": true,
-    "plaintext": false,
-    "markdown": false,
-    "scminput": false,
-    "dotenv": false
   },
   "prettier.jsxSingleQuote": true,
   "prettier.singleQuote": true

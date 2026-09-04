@@ -11,16 +11,13 @@ Create product.json inside "~/.var/app/com.vscodium.codium/config/VSCodium" for 
 1. Atom One Light Theme by Mahmoud Ali
 2. Auto Rename Tag by Jun Han
 3. Better Comments by Aaron Bond
-4. Date & Time by rid9
-5. DotENV by mikestead
-6. GitLens --- Git supercharged by GitKraken
-7. Material Icon Theme by Philipp Kief
-8. Material Theme by Equinusocio
-9. Material Theme Icons by Equinusocio
-10. One Dark Pro by binaryify
-11. Prettier - Code formatter by Prettier
-12. shell-format by foxundermoon
-13. Tailwind CSS IntelliSense by Tailwind Labs
+4. Codex – OpenAI’s coding agent by OpenAI
+5. GitLens --- Git supercharged by GitKraken
+6. Material Icon Theme by Philipp Kief
+7. One Dark Pro by binaryify
+8. Prettier - Code formatter by Prettier
+9. Tailwind CSS IntelliSense by Tailwind Labs
+10. VSCode Shell-like Formatter by lumirelle
 
 ### Download JetBrainsMono Nerd Font from https://www.nerdfonts.com/font-downloads
 
@@ -31,20 +28,6 @@ Add these at end of settings.json
 ```json
   "editor.fontSize": "number your desired font size",
   "window.zoomLevel": "number your desired zoom level"
-```
-
-### Set custom keyboard shortcut (not needed anymore)
-
-Shift+Ctrl+Alt+D :
-
-```
-codium --enable-features=UseOzonePlatform --ozone-platform=wayland
-```
-
-or
-
-```
-flatpak run com.vscodium.codium --enable-features=UseOzonePlatform --ozone-platform=wayland
 ```
 
 ### VSCode on Windows Specific
